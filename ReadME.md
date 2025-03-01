@@ -12,9 +12,6 @@ This is a Spring Boot application for managing translations. It uses JWT for aut
 - [API Documentation](#api-documentation)
 - [Database Configuration](#database-configuration)
 - [JWT Configuration](#jwt-configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Prerequisites
 Before running the application, ensure you have the following installed:
